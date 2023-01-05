@@ -100,5 +100,6 @@
       "Description": "Bmw with all original documents",
       "Price": 600000
     }
-  ]
+  ],
+  "wishlist_cars" : []
 }
