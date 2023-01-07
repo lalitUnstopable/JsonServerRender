@@ -1,4 +1,6 @@
 {
   "cars": [],
-  "wishlist_cars" : []
+  "wishlist_cars" : [],
+  "user" : [],
+  "task" : []
 }
