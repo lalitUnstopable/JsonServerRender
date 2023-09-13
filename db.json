@@ -1,109 +1,94 @@
 {
   "courseList": [
     {
-      "id":1,
-       "Name" :"Classical Guitar",
-       "Discription" : "Guitar classes for...",
-       "Instructor" : "Mr.Jane Doe",
-       "Instrument" : "Guitar",
-       "Day of the Week" : "Wednesday",
-       "No of Students" : 18,
-       "Price" : 60,
-       "Status" : "Active"
-  },
-  {
-    "id":2,
-     "Name" :"Piano",
-     "Discription" : "Piano classes for..",
-     "Instructor" : "Mr.James Bond",
-     "Instrument" : "Piano",
-     "Day of the Week" : "Thursday",
-     "No of Students" : 29,
-     "Price" : 40,
-     "Status" : "Active"
-},
-{
-  "id":3,
-   "Name" :"Vocals",
-   "Discription" : "Vocals classes for..",
-   "Instructor" : "Mrs.Peaches",
-   "Instrument" : "Vocals",
-   "Day of the Week" : "Saturday",
-   "No of Students" : 23,
-   "Price" : 50,
-   "Status" : "Closed"
-},
-{
-  "id":4,
-   "Name" :"Drums",
-   "Discription" : "Drums Classes For..",
-   "Instructor" : "Mr.Sting",
-   "Instrument" : "Drums",
-   "Day of the Week" : "Wednesday",
-   "No of Students" : 27,
-   "Price" : 40,
-   "Status" : "Active"
-},
-{
-  "id":5,
-   "Name" :"Violin",
-   "Discription" : "Violin Classes for..",
-   "Instructor" : "Mrs.Sherlyn Crow",
-   "Instrument" : "Violin",
-   "Day of the Week" : "Monday",
-   "No of Students" : 25,
-   "Price" : 30,
-   "Status" : "Archived"
-},
-{
-  "id":6,
-   "Name" :"Cello",
-   "Discription" : "Cello Classes for..",
-   "Instructor" : "Mr.J-Live",
-   "Instrument" : "Cello",
-   "Day of the Week" : "Saturday",
-   "No of Students" : 24,
-   "Price" : 80,
-   "Status" : "Closed"
-},
-{
-  "id":7,
-   "Name" :"Flute",
-   "Discription" : "Flute Classes for..",
-   "Instructor" : "Mr.Jane Doe",
-   "Instrument" : "Flute",
-   "Day of the Week" : "Friday",
-   "No of Students" : 28,
-   "Price" : 90,
-   "Status" : "Active"
-},
-{
-  "id":8,
-   "Name" :"Harmonia",
-   "Discription" : "Harmonia Classes for..",
-   "Instructor" : "Mr.Roberta Flack",
-   "Instrument" : "Harmonia",
-   "Day of the Week" : "Tuesday",
-   "No of Students" : 20,
-   "Price" : 50,
-   "Status" : "Archived"
-},
-{
-  "id":9,
-   "Name" :"Saxophone",
-   "Discription" : "Saxophone Classes for..",
-   "Instructor" : "Mr.J.T.Taylor",
-   "Instrument" : "Saxophone",
-   "Day of the Week" : "Monday",
-   "No of Students" : 21,
-   "Price" : 60,
-   "Status" : "Closed"
-}
+      "id": 1,
+      "Name": "Classical Guitar",
+      "Discription": "Guitar classes for...",
+      "Instructor": "Mr.Jane Doe",
+      "Instrument": "Guitar",
+      "Day of the Week": "Wednesday",
+      "No of Students": 18,
+      "Price": 60,
+      "Status": "Active"
+    },
+    {
+      "id": 2,
+      "Name": "Piano",
+      "Discription": "Piano classes for..",
+      "Instructor": "Mr.James Bond",
+      "Instrument": "Piano",
+      "Day of the Week": "Thursday",
+      "No of Students": 29,
+      "Price": 40,
+      "Status": "Active"
+    },
+    {
+      "id": 3,
+      "Name": "Vocals",
+      "Discription": "Vocals classes for..",
+      "Instructor": "Mrs.Peaches",
+      "Instrument": "Vocals",
+      "Day of the Week": "Saturday",
+      "No of Students": 23,
+      "Price": 50,
+      "Status": "Closed"
+    },
+    {
+      "id": 4,
+      "Name": "Drums",
+      "Discription": "Drums Classes For..",
+      "Instructor": "Mr.Sting",
+      "Instrument": "Drums",
+      "Day of the Week": "Wednesday",
+      "No of Students": 27,
+      "Price": 40,
+      "Status": "Active"
+    },
+    {
+      "id": 5,
+      "Name": "Violin",
+      "Discription": "Violin Classes for..",
+      "Instructor": "Mrs.Sherlyn Crow",
+      "Instrument": "Violin",
+      "Day of the Week": "Monday",
+      "No of Students": 25,
+      "Price": 30,
+      "Status": "Archived"
+    },
+    {
+      "id": 6,
+      "Name": "Cello",
+      "Discription": "Cello Classes for..",
+      "Instructor": "Mr.J-Live",
+      "Instrument": "Cello",
+      "Day of the Week": "Saturday",
+      "No of Students": 24,
+      "Price": 80,
+      "Status": "Closed"
+    },
+    {
+      "id": 7,
+      "Name": "Flute",
+      "Discription": "Flute Classes for..",
+      "Instructor": "Mr.Jane Doe",
+      "Instrument": "Flute",
+      "Day of the Week": "Friday",
+      "No of Students": 28,
+      "Price": 90,
+      "Status": "Active"
+    },
+    {
+      "id": 8,
+      "Name": "Harmonia",
+      "Discription": "Harmonia Classes for..",
+      "Instructor": "Mr.Roberta Flack",
+      "Instrument": "Harmonia",
+      "Day of the Week": "Tuesday",
+      "No of Students": 20,
+      "Price": 50,
+      "Status": "Archived"
+    }
   ],
-  "enrolments": [
-    
-  ],
-  "students": [
-      
-    ]
+  "enrolments": [],
+  "students": []
 }
