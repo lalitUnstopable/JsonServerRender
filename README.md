@@ -1,3 +1,3 @@
 # JsonServerRender
 
-https://jsonserver-irnf.onrender.com/
+https://octalogic-tech-json-server.onrender.com
