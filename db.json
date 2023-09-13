@@ -87,6 +87,28 @@
       "No_of_Students": 20,
       "Price": 50,
       "Status": "Archived"
+    },
+    {
+      "id": 9,
+      "Name": "Trumpet",
+      "Discription": "Trumpet Classes for..",
+      "Instructor": "Mr.Sencha",
+      "Instrument": "Trumpet",
+      "Day_of_the_Week": "Tuesday",
+      "No_of_Students": 23,
+      "Price": 50,
+      "Status": "Active"
+    },
+    {
+      "id": 10,
+      "Name": "Clarinet",
+      "Discription": "Clarinet Classes for..",
+      "Instructor": "Mr.Thomas",
+      "Instrument": "Clarinet",
+      "Day_of_the_Week": "Friday",
+      "No_of_Students": 29,
+      "Price": 58,
+      "Status": "Archived"
     }
   ],
   "enrolments": [],
