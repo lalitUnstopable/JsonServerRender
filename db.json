@@ -1,7 +1,11 @@
 {
-  "cars": [],
-  "wishlist_cars" : [],
-  "user" : [],
-  "task" : [],
-  "dogs" : []
+  "courseList": [
+    
+  ],
+  "enrolments": [
+    
+  ],
+  "students": [
+      
+    ]
 }
