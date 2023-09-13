@@ -6,8 +6,8 @@
       "Discription": "Guitar classes for...",
       "Instructor": "Mr.Jane Doe",
       "Instrument": "Guitar",
-      "Day of the Week": "Wednesday",
-      "No of Students": 18,
+      "Day_of_the_Week": "Wednesday",
+      "No_of_Students": 18,
       "Price": 60,
       "Status": "Active"
     },
@@ -17,8 +17,8 @@
       "Discription": "Piano classes for..",
       "Instructor": "Mr.James Bond",
       "Instrument": "Piano",
-      "Day of the Week": "Thursday",
-      "No of Students": 29,
+      "Day_of_the_Week": "Thursday",
+      "No_of_Students": 29,
       "Price": 40,
       "Status": "Active"
     },
@@ -28,8 +28,8 @@
       "Discription": "Vocals classes for..",
       "Instructor": "Mrs.Peaches",
       "Instrument": "Vocals",
-      "Day of the Week": "Saturday",
-      "No of Students": 23,
+      "Day_of_the_Week": "Saturday",
+      "No_of_Students": 23,
       "Price": 50,
       "Status": "Closed"
     },
@@ -39,8 +39,8 @@
       "Discription": "Drums Classes For..",
       "Instructor": "Mr.Sting",
       "Instrument": "Drums",
-      "Day of the Week": "Wednesday",
-      "No of Students": 27,
+      "Day_of_the_Week": "Wednesday",
+      "No_of_Students": 27,
       "Price": 40,
       "Status": "Active"
     },
@@ -50,8 +50,8 @@
       "Discription": "Violin Classes for..",
       "Instructor": "Mrs.Sherlyn Crow",
       "Instrument": "Violin",
-      "Day of the Week": "Monday",
-      "No of Students": 25,
+      "Day_of_the_Week": "Monday",
+      "No_of_Students": 25,
       "Price": 30,
       "Status": "Archived"
     },
@@ -61,8 +61,8 @@
       "Discription": "Cello Classes for..",
       "Instructor": "Mr.J-Live",
       "Instrument": "Cello",
-      "Day of the Week": "Saturday",
-      "No of Students": 24,
+      "Day_of_the_Week": "Saturday",
+      "No_of_Students": 24,
       "Price": 80,
       "Status": "Closed"
     },
@@ -72,8 +72,8 @@
       "Discription": "Flute Classes for..",
       "Instructor": "Mr.Jane Doe",
       "Instrument": "Flute",
-      "Day of the Week": "Friday",
-      "No of Students": 28,
+      "Day_of_the_Week": "Friday",
+      "No_of_Students": 28,
       "Price": 90,
       "Status": "Active"
     },
@@ -83,8 +83,8 @@
       "Discription": "Harmonia Classes for..",
       "Instructor": "Mr.Roberta Flack",
       "Instrument": "Harmonia",
-      "Day of the Week": "Tuesday",
-      "No of Students": 20,
+      "Day_of_the_Week": "Tuesday",
+      "No_of_Students": 20,
       "Price": 50,
       "Status": "Archived"
     }
